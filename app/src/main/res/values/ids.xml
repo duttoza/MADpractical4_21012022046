@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_call" type="id" />
+    <item name="txt_alarm" type="id" />
+    <item name="txt_browse" type="id" />
+    <item name="btn_call_log" type="id" />
+    <item name="btn_camera" type="id" />
+    <item name="btn_alarm" type="id" />
+    <item name="btn_browse" type="id" />
+</resources>

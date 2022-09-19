@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MADpractical4_21012022046</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="open_google_map">Open Google Map</string>
+    <string name="call">Call</string>
+    <string name="alaram">Alaram</string>
+    <string name="contact">Contact</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="open_browser">Open Browser</string>
+</resources>
